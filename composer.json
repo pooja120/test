@@ -20,7 +20,7 @@
         "magento/module-ui": "100.1.*"
     },
     "type": "magento2-module",
-    "version": "2.0.6",
+    "version": "2.0.7",
     "license": [
         "proprietary"
     ],
